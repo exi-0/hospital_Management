@@ -1,0 +1,148 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+.cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# SQLite
+*.db
+*.sqlite3
+
+# Local data
+data/
+cache/
+temp/
+
+# LangGraph
+.langgraph/
+
+# LangSmith
+.langsmith/
+
+# Python type checker
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Ruff
+.ruff_cache/
+
+# Pyright
+.pyright/
+
+# pytest
+.pytest_cache/
+
+# Coverage reports
+coverage.xml
+
+# Generated reports
+reports/
+
+# VS Code testing
+.history/
+
+# Node (if frontend is added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Windows
+ehthumbs.db
+
+# API Keys
+credentials.json
+service_account.json
+google_credentials.json
+firebase-adminsdk*.json
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Generated PDFs
+*.pdf
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Python caches
+__pypackages__/
+
+# Secrets
+secrets/
+keys/
+*.pem
+*.key
+
+# Local configuration
+config.local.py
+local_settings.py
