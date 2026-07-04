@@ -1,0 +1,195 @@
+[
+  {
+    "doctor_id": "D101",
+    "name": "Dr. Sarah Brown",
+    "specialization": "Cardiology",
+    "experience": 12,
+    "fee": 150.0,
+    "hospital": "Metro Cardiac Center",
+    "available_slots": [
+      "2026-07-10 09:00",
+      "2026-07-10 10:00",
+      "2026-07-10 11:00",
+      "2026-07-10 13:00",
+      "2026-07-10 14:00",
+      "2026-07-10 15:00",
+      "2026-07-12 09:00",
+      "2026-07-12 11:00",
+      "2026-07-12 14:00",
+      "2026-07-12 16:30"
+    ]
+  },
+  {
+    "doctor_id": "D102",
+    "name": "Dr. James Green",
+    "specialization": "Orthopedics",
+    "experience": 8,
+    "fee": 120.0,
+    "hospital": "St. Jude Ortho Clinic",
+    "available_slots": [
+      "2026-07-11 10:00",
+      "2026-07-11 11:00",
+      "2026-07-11 14:00",
+      "2026-07-11 15:00",
+      "2026-07-13 09:30",
+      "2026-07-13 10:30",
+      "2026-07-13 14:30",
+      "2026-07-13 15:30"
+    ]
+  },
+  {
+    "doctor_id": "D103",
+    "name": "Dr. Amina Patel",
+    "specialization": "General Medicine",
+    "experience": 15,
+    "fee": 80.0,
+    "hospital": "City Health Hospital",
+    "available_slots": [
+      "2026-07-09 08:30",
+      "2026-07-09 10:30",
+      "2026-07-09 15:00",
+      "2026-07-10 10:30",
+      "2026-07-10 11:30",
+      "2026-07-10 14:00",
+      "2026-07-10 15:30"
+    ]
+  },
+  {
+    "doctor_id": "D104",
+    "name": "Dr. Robert Chen",
+    "specialization": "Cardiology",
+    "experience": 20,
+    "fee": 200.0,
+    "hospital": "Valley Heart Institute",
+    "available_slots": [
+      "2026-07-09 10:00",
+      "2026-07-09 11:00",
+      "2026-07-09 14:00",
+      "2026-07-09 16:00",
+      "2026-07-11 09:00",
+      "2026-07-11 11:00",
+      "2026-07-11 15:00"
+    ]
+  },
+  {
+    "doctor_id": "D105",
+    "name": "Dr. Sophia Martinez",
+    "specialization": "Pediatrics",
+    "experience": 10,
+    "fee": 95.0,
+    "hospital": "Childrens Care Hospital",
+    "available_slots": [
+      "2026-07-10 08:00",
+      "2026-07-10 10:00",
+      "2026-07-10 13:00",
+      "2026-07-12 10:00",
+      "2026-07-12 11:30",
+      "2026-07-12 14:00"
+    ]
+  },
+  {
+    "doctor_id": "D106",
+    "name": "Dr. Michael Chang",
+    "specialization": "Dermatology",
+    "experience": 7,
+    "fee": 110.0,
+    "hospital": "Skin & Laser Center",
+    "available_slots": [
+      "2026-07-14 09:00",
+      "2026-07-14 10:30",
+      "2026-07-14 11:30",
+      "2026-07-14 13:30",
+      "2026-07-14 14:30"
+    ]
+  },
+  {
+    "doctor_id": "D107",
+    "name": "Dr. Laura Vance",
+    "specialization": "Neurology",
+    "experience": 18,
+    "fee": 180.0,
+    "hospital": "Neurological Wellness Clinic",
+    "available_slots": [
+      "2026-07-15 10:00",
+      "2026-07-15 11:00",
+      "2026-07-15 14:00",
+      "2026-07-15 15:00",
+      "2026-07-15 16:00"
+    ]
+  },
+  {
+    "doctor_id": "D108",
+    "name": "Dr. Elena Volkova",
+    "specialization": "Orthopedics",
+    "experience": 14,
+    "fee": 140.0,
+    "hospital": "Ortho Relief Hospital",
+    "available_slots": [
+      "2026-07-10 09:00",
+      "2026-07-10 11:00",
+      "2026-07-10 15:00",
+      "2026-07-12 10:30",
+      "2026-07-12 14:30"
+    ]
+  },
+  {
+    "doctor_id": "D109",
+    "name": "Dr. Kenji Tanaka",
+    "specialization": "Pediatrics",
+    "experience": 11,
+    "fee": 105.0,
+    "hospital": "Sakura Children Clinic",
+    "available_slots": [
+      "2026-07-11 09:00",
+      "2026-07-11 11:00",
+      "2026-07-11 13:30",
+      "2026-07-11 15:30"
+    ]
+  },
+  {
+    "doctor_id": "D110",
+    "name": "Dr. Sarah Jenkins",
+    "specialization": "General Medicine",
+    "experience": 9,
+    "fee": 75.0,
+    "hospital": "Family Care Clinic",
+    "available_slots": [
+      "2026-07-10 09:30",
+      "2026-07-10 13:30",
+      "2026-07-10 16:00",
+      "2026-07-12 11:00",
+      "2026-07-12 14:00"
+    ]
+  },
+  {
+    "doctor_id": "D111",
+    "name": "Dr. Hanz Gruber",
+    "specialization": "Cardiology",
+    "experience": 16,
+    "fee": 175.0,
+    "hospital": "Alpine Heart Clinic",
+    "available_slots": [
+      "2026-07-10 08:30",
+      "2026-07-10 10:30",
+      "2026-07-10 14:30",
+      "2026-07-12 09:30",
+      "2026-07-12 13:30",
+      "2026-07-12 15:30"
+    ]
+  },
+  {
+    "doctor_id": "D112",
+    "name": "Dr. Chloe Bourgeois",
+    "specialization": "Neurology",
+    "experience": 6,
+    "fee": 130.0,
+    "hospital": "Paris Brain Institute",
+    "available_slots": [
+      "2026-07-13 10:00",
+      "2026-07-13 11:30",
+      "2026-07-13 15:00",
+      "2026-07-15 09:00",
+      "2026-07-15 13:00"
+    ]
+  }
+]
